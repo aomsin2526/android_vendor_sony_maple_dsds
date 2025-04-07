@@ -350,7 +350,6 @@ PRODUCT_PACKAGES += \
     libmmlib2d_interface \
     libmmqjpeg_codec \
     libmmqjpegdma \
-    libpn553_fw \
     libqomx_core \
     libqomx_jpegdec \
     libqomx_jpegenc \
@@ -375,6 +374,7 @@ PRODUCT_PACKAGES += \
     lib_fpc_tac_shared \
     libdevice_security_vendor \
     libkeymasterutils \
+    libpn553_fw \
     libprotobuf-c-idd \
     libsensor1_vendor \
     libsensor_reg_vendor \
