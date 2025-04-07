@@ -118,29 +118,29 @@ PRODUCT_PACKAGES += \
     libsensor1 \
     libsensor_reg \
     libsensor_test \
-    com.qualcomm.qti.ant@1.0 \
+    com.qualcomm.qti.ant@1.0_vendor \
     libhdcprx_module \
     libhdcptx_module \
     libstagefright_hdcp \
-    vendor.semc.hardware.light@1.0 \
-    vendor.semc.system.idd@1.0 \
+    vendor.semc.hardware.light@1.0_vendor \
+    vendor.semc.system.idd@1.0_vendor \
     vendor.qti.voiceprint@1.0 \
-    vendor.somc.hardware.camera.cacao@1.0 \
-    vendor.somc.hardware.camera.cacao@2.0 \
-    vendor.somc.hardware.camera.cacao@3.0 \
-    vendor.somc.hardware.camera.cacao@3.1 \
-    vendor.somc.hardware.camera.device@1.0 \
-    vendor.somc.hardware.camera.provider@1.0 \
+    vendor.somc.hardware.camera.cacao@1.0_vendor \
+    vendor.somc.hardware.camera.cacao@2.0_vendor \
+    vendor.somc.hardware.camera.cacao@3.0_vendor \
+    vendor.somc.hardware.camera.cacao@3.1_vendor \
+    vendor.somc.hardware.camera.device@1.0_vendor \
+    vendor.somc.hardware.camera.provider@1.0_vendor \
     com.fingerprints.extension@1.0 \
-    vendor.display.color@1.0 \
-    vendor.display.color@1.1 \
-    vendor.display.postproc@1.0 \
-    vendor.qti.esepowermanager@1.0 \
-    vendor.qti.hardware.qdutils_disp@1.0 \
-    vendor.qti.hardware.qteeconnector@1.0 \
-    vendor.qti.hardware.tui_comm@1.0 \
+    vendor.display.color@1.0_vendor \
+    vendor.display.color@1.1_vendor \
+    vendor.display.postproc@1.0_vendor \
+    vendor.qti.esepowermanager@1.0_vendor \
+    vendor.qti.hardware.qdutils_disp@1.0_vendor \
+    vendor.qti.hardware.qteeconnector@1.0_vendor \
+    vendor.qti.hardware.tui_comm@1.0_vendor \
     vendor.semc.hardware.thermal@1.0 \
-    vendor.somc.hardware.security.secd@1.0 \
+    vendor.somc.hardware.security.secd@1.0_vendor \
     updatemiscta
 PRODUCT_COPY_FILES += \
     vendor/sony/maple_dsds/proprietary/vendor/camera/SEM13BS1/color_ctrl.dat:$(TARGET_COPY_OUT_VENDOR)/camera/SEM13BS1/color_ctrl.dat \
