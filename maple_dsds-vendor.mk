@@ -314,7 +314,7 @@ PRODUCT_PACKAGES += \
     libexcal_snapshot_ctrl_plugin \
     libexcal_splitter_plugin \
     libexcal_stream_ctrl_plugin \
-    audio.primary.msm8998 \
+    audio.primary.msm8998_vendor \
     camera.maple_dsds \
     sound_trigger.primary.msm8998 \
     libacdb-fts \

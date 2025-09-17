@@ -1507,7 +1507,8 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
-	name: "audio.primary.msm8998",
+	name: "audio.primary.msm8998_vendor",
+	stem: "audio.primary.msm8998",
 	owner: "sony",
 	strip: {
 		none: true,
